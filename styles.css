@@ -1,4 +1,5 @@
 .nav-wrapper {
+  background-color: cornflowerblue;
   display:flex;
   justify-content:space-between;
   padding: 38px;
