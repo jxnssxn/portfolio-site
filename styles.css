@@ -1,3 +1,4 @@
+/* main styles body, container*/
 body {
   margin: 0px;
 }
@@ -6,7 +7,7 @@ body {
   display: grid;
   grid-template-columns: 1fr;
 }
-
+/* nav-bar styles */
 .nav-wrapper {
   display:flex;
   justify-content:space-between;
@@ -41,3 +42,5 @@ body {
 .nav-link-wrapper a:hover {
   color: black;
 }
+
+/* portfolio style */
