@@ -80,7 +80,7 @@ body {
   
   margin-bottom: 20px;
 }
-/* get more specific with the selector */
+/* get more specific with the query selector */
 .img-text-wrapper .subtitle {
   transition: 1s;
   font-weight: 600;
